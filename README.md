@@ -27,6 +27,6 @@ I consider myself a **disciplined** individual who loves improving a little more
 - **Email:** malvaceda.jeanpierre28@gmail.com
 - **LinkedIn:** [Jean Pierre Malvaceda](https://linkedin.com/in/jpmo77)
 - **GitHub:** [Jean Pierre Malvaceda](https://github.com/jpmo77)
-- **Behance:** [Jean Pierre Malvacead](https://behance.net/jpmo77)
+- **Behance:** [Jean Pierre Malvaceda](https://behance.net/jpmo77)
 
 I'm always open to new opportunities and collaborations! 🚀
