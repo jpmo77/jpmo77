@@ -1,32 +1,128 @@
-## 👋Hi, I'm Jean Pierre!
+# Hi, I'm Jean Pierre Malvaceda 👋
 
-### Web Designer & Developer 🚀
+## Web Developer & Designer
 
-I'm a **web designer** and **programmer** passionate about creating attractive and functional digital experiences. I enjoy learning something new every day and constantly strive to apply my creativity and technical skills to every project I take on.
+I'm an **IT Developer with professional experience since 2019**, currently focused on building modern, responsive, and user-friendly web experiences.
 
-### 💻 Technologies I Work With:
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Mobile:** Swift, UIKit, SwiftUI
-- **Design:** Figma, Adobe Ilustrator, WebFlow
-- **CMS:** WordPress
-- **Version Control:** Git, GitHub
+Throughout my career, I have worked on the support, maintenance, and implementation of new features for business systems. This experience has helped me develop strong foundations in problem-solving, business logic, databases, software maintenance, and working with real client requirements.
 
-### 🎯 Philosophy
-I consider myself a **disciplined** individual who loves improving a little more every day. I believe in the power of **consistent practice** and the importance of staying **curious and up-to-date** in this ever-evolving world of technology.
+Today, I'm strengthening my profile as a **frontend-focused web developer**, combining development and visual design to create functional digital experiences for companies, professionals, and local businesses.
 
-### 🛠️ Featured Projects:
-<!-- **[Personal Portfolio](https://yourwebsite.com):** A showcase of my best web design and development work. 
-**[Gym Tracking App](https://github.com/yourrepo):** An app that allows users to track their workouts.
-- **[Landing Page for Clients](https://github.com/yourrepo):** A clean, minimalist design focused on driving conversions for local businesses. -->
-- **[Website for Poco Pelo Barber Studio](https://pocopelobarberstudio.com.pe):** A fully designed website for a barbershop, offering an engaging and professional online presence to attract new customers and showcase their services.
+---
 
-### 🌱 Currently Learning:
-- **iOS Mobile Development**
+## 👨‍💻 What I Do
 
-### 📫 Contact Me:
-- **Email:** malvaceda.jeanpierre28@gmail.com
+- Develop responsive and modern websites
+- Design clean and intuitive web interfaces
+- Build landing pages for businesses and professionals
+- Maintain and improve existing business systems
+- Implement new features based on client requirements
+- Deploy static websites and web projects on AWS
+
+---
+
+## 💻 Tech Stack
+
+### Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+### Professional Experience
+
+- VB.NET
+- WPF
+- .NET Framework
+- Oracle SQL
+- Stored Procedures
+- RDLC Reports
+- Java
+- PHP
+- PrimeFaces
+
+### Design
+
+- Figma
+- Adobe Illustrator
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- Oracle SQL Developer
+
+### Currently Learning
+
+- React
+- Tailwind CSS
+- Node.js
+- Express
+- AWS
+
+---
+
+## 🚀 Featured Project
+
+### [Poco Pelo Barber Studio](https://pocopelobarberstudio.com.pe)
+
+A responsive landing page designed and developed for a local barber studio.
+
+The project was created to help the business present its services, strengthen its digital presence, and make it easier for potential customers to get in touch.
+
+**My responsibilities:**
+
+- Web interface design
+- Frontend development
+- Responsive implementation
+- User-friendly navigation
+- Website deployment on AWS
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `AWS S3`
+
+---
+
+## 🌱 What I'm Currently Working On
+
+- Improving my frontend development skills
+- Building projects with React and Tailwind CSS
+- Learning backend development with Node.js and Express
+- Learning how to deploy and manage web applications on AWS
+- Creating a personal portfolio to showcase my work and experience
+
+---
+
+## 🎯 My Approach
+
+I believe professional growth comes from consistent practice, curiosity, and the willingness to improve every day.
+
+My goal is not only to learn new technologies, but also to apply them by building useful, functional, and visually polished projects.
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm currently open to:
+
+- Frontend and Web Developer opportunities
+- Freelance web development projects
+- Landing page and business website projects
+- Collaborations with developers and designers
+
+---
+
+## 📫 Let's Connect
+
 - **LinkedIn:** [Jean Pierre Malvaceda](https://linkedin.com/in/jpmo77)
-- **GitHub:** [Jean Pierre Malvaceda](https://github.com/jpmo77)
+- **Instagram:** [@jpmo77](https://instagram.com/jpmo77)
 - **Behance:** [Jean Pierre Malvaceda](https://behance.net/jpmo77)
+- **Email:** [malvaceda.jeanpierre28@gmail.com](mailto:malvaceda.jeanpierre28@gmail.com)
 
-I'm always open to new opportunities and collaborations! 🚀
+---
+
+> Building modern web experiences through code, design, and continuous learning.
